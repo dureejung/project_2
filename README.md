@@ -26,7 +26,9 @@
       상점매출 데이터 활용한 사용자 패턴 분석을 진행하여 카드사별 고객 서비스 제안 해보고자 함
 
 ### 2. 데이터 정의 및 전처리
-
+- 사용 데이터: 펀다 상점 매출 데이터 (https://dacon.io/competitions/official/140472/data)
+![data](data.png)
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
 
 ### 3. EDA
