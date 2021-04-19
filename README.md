@@ -27,8 +27,7 @@
 
 ### 2. 데이터 정의 및 전처리
 - 사용 데이터: 펀다 상점 매출 데이터 (https://dacon.io/competitions/official/140472/data)
-![data](data.png)
-<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+![data](https://github.com/dureejung/project_2/blob/main/image/data.PNG)
 
 
 ### 3. EDA
