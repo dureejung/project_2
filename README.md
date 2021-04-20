@@ -30,16 +30,16 @@
 ![data](https://github.com/dureejung/project_2/blob/main/image/data.PNG)
 - 추가컬럼
 >1. 시간관련
-> - year/month/dayofweek/hour : 'transacted_date'와 'transacted_time'을 기준으로 분리
-> - holiday : 토/일요일 및 공휴일(특일정보 기준)인 경우 1, 평일인 경우 0   
+>>  - year/month/dayofweek/hour : 'transacted_date'와 'transacted_time'을 기준으로 분리
+>> - holiday : 토/일요일 및 공휴일(특일정보 기준)인 경우 1, 평일인 경우 0   
 > (특일정보: 공공데이터포털 특일정보 https://www.data.go.kr/data/15012690/openapi.do)
 >2. 지역관련
-> - sido : 'region'에서 광역시 및 도시를 분리
+>> - sido : 'region'에서 광역시 및 도시를 분리
 >3. 할부 관련
-> - installment : 'installment_term'에서 일반적인 카드 할부수수료 증가 구간에 따라 할부 거래 구간 설정   
-> (일시불, 2개월, 3-5개월, 6-9개월, 10-18개월, 19-32개월 단위) 
+>> - installment : 'installment_term'에서 일반적인 카드 할부수수료 증가 구간에 따라 할부 거래 구간 설정   
+>> (일시불, 2개월, 3-5개월, 6-9개월, 10-18개월, 19-32개월 단위) 
 > 4. 업종 관련
-> - biz : '한국 산업 표준
+>> - biz : '한국 산업 표준
 ### 3. EDA
 
 
