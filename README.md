@@ -28,7 +28,7 @@
 ### 2. 데이터 정의 및 전처리
 - 사용 데이터: 펀다 상점 매출 데이터 (https://dacon.io/competitions/official/140472/data)
 ![data](https://github.com/dureejung/project_2/blob/main/image/data.PNG)
-- 추가컬럼
+- 추가컬럼 
 >1. 시간관련
 > - year/month/dayofweek/hour : 'transacted_date'와 'transacted_time'을 기준으로 분리
 > - holiday : 토/일요일 및 공휴일(특일정보 기준)인 경우 1, 평일인 경우 0   
